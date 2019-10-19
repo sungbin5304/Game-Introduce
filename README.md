@@ -1,5 +1,5 @@
 # Game-Introduce (Simple)
-Game Introduce Repository for Performance evaluation of Korean language.
+Game Introduce Repository for Performance evaluation of Korean Class.
 
 -----
 
